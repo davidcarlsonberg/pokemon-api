@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  font-family: monospace, sans-serif;
+}
+
+.page {
+  display: block;
+}
+
+.area {
+  border-radius: 8px;
+  display: block;
+  max-width: 400px;
+  padding: 8px;
+  width: max-content;
+}
+
+.response {
+  background-color: lightgray;
+  color: darkblue;
+}
+
+.error {
+  color: red;
+}
